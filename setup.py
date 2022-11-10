@@ -23,7 +23,7 @@ setup_kwargs = {
     'author_email': 'andelf@gmail.com',
     'maintainer': None,
     'maintainer_email': None,
-    'url': 'https://github.com/andelf/tronpy',
+    'url': 'https://github.com/x3-dev/tronpy',
     'packages': packages,
     'package_data': package_data,
     'install_requires': install_requires,
